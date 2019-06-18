@@ -1,0 +1,19 @@
+C:\Users\DASUSBETA\Documents\Visual Studio 2017\Proyects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\DASUSBETA\Documents\Visual Studio 2017\Proyects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\DASUSBETA\Documents\Visual Studio 2017\Proyects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\DASUSBETA\Documents\Visual Studio 2017\Proyects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\es-419\WindowsFormsApplication1.resources.dll
+C:\Users\DASUSBETA\Documents\Visual Studio 2017\Proyects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Programa de Contabilidad.csprojAssemblyReference.cache
+C:\Users\DASUSBETA\Documents\Visual Studio 2017\Proyects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Balanza.resources
+C:\Users\DASUSBETA\Documents\Visual Studio 2017\Proyects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.EsMayor.resources
+C:\Users\DASUSBETA\Documents\Visual Studio 2017\Proyects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.EsResultado.resources
+C:\Users\DASUSBETA\Documents\Visual Studio 2017\Proyects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Principal.resources
+C:\Users\DASUSBETA\Documents\Visual Studio 2017\Proyects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Inicio.resources
+C:\Users\DASUSBETA\Documents\Visual Studio 2017\Proyects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Promedio.resources
+C:\Users\DASUSBETA\Documents\Visual Studio 2017\Proyects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\DASUSBETA\Documents\Visual Studio 2017\Proyects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.UEPS.resources
+C:\Users\DASUSBETA\Documents\Visual Studio 2017\Proyects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Balanza.es-419.resources
+C:\Users\DASUSBETA\Documents\Visual Studio 2017\Proyects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Programa de Contabilidad.csproj.GenerateResource.cache
+C:\Users\DASUSBETA\Documents\Visual Studio 2017\Proyects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Programa de Contabilidad.csproj.CoreCompileInputs.cache
+C:\Users\DASUSBETA\Documents\Visual Studio 2017\Proyects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\es-419\WindowsFormsApplication1.resources.dll
+C:\Users\DASUSBETA\Documents\Visual Studio 2017\Proyects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\DASUSBETA\Documents\Visual Studio 2017\Proyects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
